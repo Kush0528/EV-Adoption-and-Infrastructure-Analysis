@@ -11,6 +11,7 @@ https://www.nyserda.ny.gov/All-Programs/Drive-Clean-Rebate-For-Electric-Cars-Pro
 
 ## Dashboard Analysis
 ### 1) EV Registrations:
+![Image](https://github.com/user-attachments/assets/8517b8db-1be0-4b27-ab61-d3c6b1f8c887)
 In New York State, the top 500 ZIP codes for EV registrations are predominantly in urban centers like New York City, Albany, Syracuse, Rochester, and Buffalo, with Tesla leading as the top EV make followed by Toyota; Tesla experienced a sharp rise in registrations since 2018, reflecting its market dominance, though this trend saw a notable decline in 2024, indicating possible shifts in adoption patterns.
 
 ### 2) EV Infrastructure Distribution:
