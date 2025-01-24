@@ -11,16 +11,19 @@ https://www.nyserda.ny.gov/All-Programs/Drive-Clean-Rebate-For-Electric-Cars-Pro
 
 ## Dashboard Analysis
 ### 1) EV Registrations:
-![Image](https://github.com/user-attachments/assets/8517b8db-1be0-4b27-ab61-d3c6b1f8c887)
+![Image](https://github.com/user-attachments/assets/0315ee16-ce37-44b3-8a31-6aededb04860)
 In New York State, the top 500 ZIP codes for EV registrations are predominantly in urban centers like New York City, Albany, Syracuse, Rochester, and Buffalo, with Tesla leading as the top EV make followed by Toyota; Tesla experienced a sharp rise in registrations since 2018, reflecting its market dominance, though this trend saw a notable decline in 2024, indicating possible shifts in adoption patterns.
 
 ### 2) EV Infrastructure Distribution:
+![Image](https://github.com/user-attachments/assets/8517b8db-1be0-4b27-ab61-d3c6b1f8c887)
 The concentration of EV charging infrastructure is along the U.S. coasts, highlighting California as the state with the highest number of fuel type stations, a remarkable 10x growth in EV infrastructure observed in 2024 compared to 2023, and a clear emphasis on public accessibility, with over 94% of charging stations being available for public use.
 
 ### 3) Market Trends and Regional Impact:
+![Image](https://github.com/user-attachments/assets/ba05da1d-e406-4dc2-b4b2-0dd323f739f2)
 New York City counties, led by Suffolk County, have received the highest EV rebates in the state, with BEVs consistently surpassing PHEVs in rebates since 2019, and Tesla dominating as the top recipient, reflecting its market leadership and urban adoption focus.
 
 ### 4) Laws and Incentives:
+![Image](https://github.com/user-attachments/assets/833e1300-b41c-41fb-ae7b-c31a6364adcd)
 Over the past 33 years, 990 EV legislations have been enacted across the U.S., with California leading at 97 laws, and a sharp increase in laws enacted for EVs since 2014 underscores the growing policy focus on promoting sustainable transportation and electric vehicle adoption.
 
 ## Conclusion
